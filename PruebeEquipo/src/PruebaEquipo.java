@@ -1,5 +1,7 @@
 public class PruebaEquipo {
-public void Prueba(){
+
+    public static void main(String[] args)  {
+
     System.out.println("hola");
     System.out.println("hola 2");
 }
